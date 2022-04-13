@@ -1,3 +1,24 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v1.5.17.RELEASE
+*    Source File: jquery-1.7.2.js
+*    
+*    Copyrights:
+*      copyright 2011, john resig
+*      copyright 2011, the dojo foundation
+*    
+*    Licenses:
+*      BSD 4-Clause "Original" or "Old" License
+*      SPDXId: N/A
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 (function( jQuery ) {
 
 var rnamespaces = /\.(.*)$/,
