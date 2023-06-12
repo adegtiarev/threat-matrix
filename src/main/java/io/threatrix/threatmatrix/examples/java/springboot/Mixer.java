@@ -1,3 +1,35 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v1.5.18.RELEASE
+*    Source File: JSONTokener.java
+*    
+*    Copyrights:
+*      copyright (c) 2010 the android open source project
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v1.5.18.RELEASE
+*    Source File: AnsiOutput.java
+*    
+*    Copyrights:
+*      copyright 2012-2018 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 package io.threatrix.threatmatrix.utility.springboot;
 
 private class Mixer {
