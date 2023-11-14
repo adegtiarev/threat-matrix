@@ -1,3 +1,28 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://jquery.com
+*    Release: https://github.com/jquery/jquery/releases/tag/1.5.1
+*    Source File: event.js
+*    
+*    Copyrights:
+*      copyright 2010 (c) mihai bazon <mihai.bazon@gmail.com>
+*      copyright (c) 2002 douglas crockford  (www.jslint.com)
+*      copyright 2011, john resig
+*      copyright (c) 2011 john resig, http://jquery.com
+*      copyright 2011, the dojo foundation
+*      copyright (c) 1989, 1991 free software foundation, inc
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 (function( jQuery ) {
 
 var rnamespaces = /\.(.*)$/,
