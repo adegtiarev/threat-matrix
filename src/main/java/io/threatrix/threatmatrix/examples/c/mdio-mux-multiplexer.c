@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/torvalds/linux/releases/tag/v5.9
+*    Source File: mdio-mux-multiplexer.c
+*    
+*    Copyrights:
+*      copyright 2019 nxp
+*    
+*    Licenses:
+*      GNU General Public License v2.0 only
+*      SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // SPDX-License-Identifier: GPL-2.0+
 /* MDIO bus multiplexer using kernel multiplexer subsystem
  *
