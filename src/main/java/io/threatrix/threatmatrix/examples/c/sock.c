@@ -1,4 +1,24 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/torvalds/linux/releases/tag/v5.16
+*    Source File: sock.c
+*    
+*    Copyrights:
+*      copyright (c) 2002 maxim krasnyansky <maxk@qualcomm.com>
+*      copyright (c) 2001-2002 inventel systemes
+*    
+*    Licenses:
+*      GNU General Public License v2.0 only
+*      SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
    BNEP implementation for Linux Bluetooth stack (BlueZ).
    Copyright (C) 2001-2002 Inventel Systemes
    Written 2001-2002 by
