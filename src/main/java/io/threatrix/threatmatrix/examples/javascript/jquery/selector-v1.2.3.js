@@ -1,3 +1,29 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://jquery.com
+*    Release: https://github.com/jquery/jquery/releases/tag/1.2.6
+*    Source File: selector.js
+*    
+*    Copyrights:
+*      (c) || c.charcodeat(0) > 126)
+*      copyright (c) 2002 douglas crockford  (www.crockford.com)
+*      copyright (c) 2007 john resig (jquery.com)
+*      copyright (c) 2007 john resig, http://jquery.com
+*      copyright 2007 john resig, under the mit license
+*      copyright (c) 1989, 1991 free software foundation, inc
+*      copyright 2007, dean edwards
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 var chars = jQuery.browser.safari && parseInt(jQuery.browser.version) < 417 ?
 		"(?:[\\w*_-]|\\\\.)" :
 		"(?:[\\w\u0128-\uFFFF*_-]|\\\\.)",
