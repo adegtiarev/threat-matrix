@@ -1,4 +1,24 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://groups.google.com/forum/?fromgroups#!forum/facebook-folly
+*    Release: https://github.com/facebook/folly/releases/tag/v2020.12.21.00
+*    Source File: Barrier.cpp
+*    
+*    Copyrights:
+*      copyright (c) facebook, inc. and its affiliates
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
