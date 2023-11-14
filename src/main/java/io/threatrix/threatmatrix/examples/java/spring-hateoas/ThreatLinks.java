@@ -1,4 +1,24 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://spring.io/projects/spring-hateoas
+*    Release: https://github.com/spring-projects/spring-hateoas/releases/tag/1.3.0-M1
+*    Source File: Links.java
+*    
+*    Copyrights:
+*      copyright 2013-2021 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * Copyright 2013-2021 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
