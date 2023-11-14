@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://dosbox-staging.github.io/
+*    Release: https://github.com/dosbox-staging/dosbox-staging/releases/tag/svn/RELEASE_0_74_3
+*    Source File: cpu.cpp
+*    
+*    Copyrights:
+*      copyright (c) 2002-2010  the dosbox team
+*    
+*    Licenses:
+*      GNU General Public License v2.0 or later
+*      SPDXId: GPL-2.0-or-later
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 REMOVE
 /*
  *  Copyright (C) 2002-2010  The DOSBox Team
