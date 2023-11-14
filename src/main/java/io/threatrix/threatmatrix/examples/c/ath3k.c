@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/torvalds/linux/releases/tag/v5.17
+*    Source File: ath3k.c
+*    
+*    Copyrights:
+*      copyright (c) 2008-2009 atheros communications inc
+*    
+*    Licenses:
+*      GNU General Public License v2.0 only
+*      SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (c) 2008-2009 Atheros Communications Inc.
